@@ -1,110 +1,1961 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NimGameTest" tests="104" skipped="0" failures="0" errors="0" timestamp="2022-05-18T23:05:44" hostname="Hendis-MacBook.fritz.box" time="2.273">
+<testsuite name="NimGameTest" tests="104" skipped="0" failures="0" errors="0" timestamp="2022-05-19T18:07:09" hostname="Hendis-MacBook.fritz.box" time="3.206">
   <properties/>
-  <testcase name="repetition 1 of 100" classname="NimGameTest" time="0.037"/>
-  <testcase name="repetition 2 of 100" classname="NimGameTest" time="0.002"/>
-  <testcase name="repetition 3 of 100" classname="NimGameTest" time="0.021"/>
-  <testcase name="repetition 4 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 1 of 100" classname="NimGameTest" time="0.34"/>
+  <testcase name="repetition 2 of 100" classname="NimGameTest" time="0.038"/>
+  <testcase name="repetition 3 of 100" classname="NimGameTest" time="1.372"/>
+  <testcase name="repetition 4 of 100" classname="NimGameTest" time="0.004"/>
   <testcase name="repetition 5 of 100" classname="NimGameTest" time="0.004"/>
-  <testcase name="repetition 6 of 100" classname="NimGameTest" time="0.366"/>
-  <testcase name="repetition 7 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 8 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 9 of 100" classname="NimGameTest" time="0.173"/>
-  <testcase name="repetition 10 of 100" classname="NimGameTest" time="0.008"/>
-  <testcase name="repetition 11 of 100" classname="NimGameTest" time="0.396"/>
-  <testcase name="repetition 12 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 13 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 14 of 100" classname="NimGameTest" time="0.006"/>
-  <testcase name="repetition 15 of 100" classname="NimGameTest" time="0.006"/>
-  <testcase name="repetition 16 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 17 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 18 of 100" classname="NimGameTest" time="0.004"/>
-  <testcase name="repetition 19 of 100" classname="NimGameTest" time="0.009"/>
-  <testcase name="repetition 20 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 21 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 22 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 23 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 24 of 100" classname="NimGameTest" time="0.02"/>
-  <testcase name="repetition 25 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 26 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 27 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 28 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 29 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 30 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 31 of 100" classname="NimGameTest" time="0.051"/>
-  <testcase name="repetition 32 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 33 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 6 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 7 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 8 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 9 of 100" classname="NimGameTest" time="0.005"/>
+  <testcase name="repetition 10 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 11 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 12 of 100" classname="NimGameTest" time="0.012"/>
+  <testcase name="repetition 13 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 14 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 15 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 16 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 17 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 18 of 100" classname="NimGameTest" time="0.13"/>
+  <testcase name="repetition 19 of 100" classname="NimGameTest" time="0.016"/>
+  <testcase name="repetition 20 of 100" classname="NimGameTest" time="0.029"/>
+  <testcase name="repetition 21 of 100" classname="NimGameTest" time="0.008"/>
+  <testcase name="repetition 22 of 100" classname="NimGameTest" time="0.053"/>
+  <testcase name="repetition 23 of 100" classname="NimGameTest" time="0.012"/>
+  <testcase name="repetition 24 of 100" classname="NimGameTest" time="0.006"/>
+  <testcase name="repetition 25 of 100" classname="NimGameTest" time="0.016"/>
+  <testcase name="repetition 26 of 100" classname="NimGameTest" time="0.008"/>
+  <testcase name="repetition 27 of 100" classname="NimGameTest" time="0.006"/>
+  <testcase name="repetition 28 of 100" classname="NimGameTest" time="0.028"/>
+  <testcase name="repetition 29 of 100" classname="NimGameTest" time="0.014"/>
+  <testcase name="repetition 30 of 100" classname="NimGameTest" time="0.014"/>
+  <testcase name="repetition 31 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 32 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 33 of 100" classname="NimGameTest" time="0.003"/>
   <testcase name="repetition 34 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 35 of 100" classname="NimGameTest" time="0.0"/>
+  <testcase name="repetition 35 of 100" classname="NimGameTest" time="0.023"/>
   <testcase name="repetition 36 of 100" classname="NimGameTest" time="0.002"/>
-  <testcase name="repetition 37 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 38 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 39 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 40 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 41 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 42 of 100" classname="NimGameTest" time="0.003"/>
-  <testcase name="repetition 43 of 100" classname="NimGameTest" time="0.002"/>
-  <testcase name="repetition 44 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 45 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 46 of 100" classname="NimGameTest" time="0.005"/>
-  <testcase name="repetition 47 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 48 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 49 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 50 of 100" classname="NimGameTest" time="0.004"/>
-  <testcase name="repetition 51 of 100" classname="NimGameTest" time="0.491"/>
-  <testcase name="repetition 52 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 53 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 54 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 55 of 100" classname="NimGameTest" time="0.007"/>
-  <testcase name="repetition 56 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 57 of 100" classname="NimGameTest" time="0.014"/>
-  <testcase name="repetition 58 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 59 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 60 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 61 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 62 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 63 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 64 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 65 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 66 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 67 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 68 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 69 of 100" classname="NimGameTest" time="0.041"/>
-  <testcase name="repetition 70 of 100" classname="NimGameTest" time="0.008"/>
-  <testcase name="repetition 71 of 100" classname="NimGameTest" time="0.006"/>
-  <testcase name="repetition 72 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 73 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 74 of 100" classname="NimGameTest" time="0.041"/>
-  <testcase name="repetition 75 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 76 of 100" classname="NimGameTest" time="0.0"/>
+  <testcase name="repetition 37 of 100" classname="NimGameTest" time="0.007"/>
+  <testcase name="repetition 38 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 39 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 40 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 41 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 42 of 100" classname="NimGameTest" time="0.018"/>
+  <testcase name="repetition 43 of 100" classname="NimGameTest" time="0.146"/>
+  <testcase name="repetition 44 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 45 of 100" classname="NimGameTest" time="0.0"/>
+  <testcase name="repetition 46 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 47 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 48 of 100" classname="NimGameTest" time="0.005"/>
+  <testcase name="repetition 49 of 100" classname="NimGameTest" time="0.005"/>
+  <testcase name="repetition 50 of 100" classname="NimGameTest" time="0.008"/>
+  <testcase name="repetition 51 of 100" classname="NimGameTest" time="0.006"/>
+  <testcase name="repetition 52 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 53 of 100" classname="NimGameTest" time="0.006"/>
+  <testcase name="repetition 54 of 100" classname="NimGameTest" time="0.019"/>
+  <testcase name="repetition 55 of 100" classname="NimGameTest" time="0.012"/>
+  <testcase name="repetition 56 of 100" classname="NimGameTest" time="0.013"/>
+  <testcase name="repetition 57 of 100" classname="NimGameTest" time="0.054"/>
+  <testcase name="repetition 58 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 59 of 100" classname="NimGameTest" time="0.14"/>
+  <testcase name="repetition 60 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 61 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 62 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 63 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 64 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 65 of 100" classname="NimGameTest" time="0.022"/>
+  <testcase name="repetition 66 of 100" classname="NimGameTest" time="0.027"/>
+  <testcase name="repetition 67 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 68 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 69 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 70 of 100" classname="NimGameTest" time="0.065"/>
+  <testcase name="repetition 71 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 72 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 73 of 100" classname="NimGameTest" time="0.031"/>
+  <testcase name="repetition 74 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 75 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 76 of 100" classname="NimGameTest" time="0.003"/>
   <testcase name="repetition 77 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 78 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 79 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 80 of 100" classname="NimGameTest" time="0.003"/>
-  <testcase name="repetition 81 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 78 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 79 of 100" classname="NimGameTest" time="0.002"/>
+  <testcase name="repetition 80 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 81 of 100" classname="NimGameTest" time="0.001"/>
   <testcase name="repetition 82 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 83 of 100" classname="NimGameTest" time="0.042"/>
-  <testcase name="repetition 84 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 83 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 84 of 100" classname="NimGameTest" time="0.002"/>
   <testcase name="repetition 85 of 100" classname="NimGameTest" time="0.001"/>
   <testcase name="repetition 86 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 87 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 87 of 100" classname="NimGameTest" time="0.009"/>
   <testcase name="repetition 88 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 89 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 90 of 100" classname="NimGameTest" time="0.01"/>
-  <testcase name="repetition 91 of 100" classname="NimGameTest" time="0.167"/>
-  <testcase name="repetition 92 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 93 of 100" classname="NimGameTest" time="0.008"/>
-  <testcase name="repetition 94 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 95 of 100" classname="NimGameTest" time="0.0"/>
-  <testcase name="repetition 96 of 100" classname="NimGameTest" time="0.002"/>
-  <testcase name="repetition 97 of 100" classname="NimGameTest" time="0.145"/>
+  <testcase name="repetition 89 of 100" classname="NimGameTest" time="0.005"/>
+  <testcase name="repetition 90 of 100" classname="NimGameTest" time="0.003"/>
+  <testcase name="repetition 91 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 92 of 100" classname="NimGameTest" time="0.012"/>
+  <testcase name="repetition 93 of 100" classname="NimGameTest" time="0.004"/>
+  <testcase name="repetition 94 of 100" classname="NimGameTest" time="0.057"/>
+  <testcase name="repetition 95 of 100" classname="NimGameTest" time="0.012"/>
+  <testcase name="repetition 96 of 100" classname="NimGameTest" time="0.0"/>
+  <testcase name="repetition 97 of 100" classname="NimGameTest" time="0.001"/>
   <testcase name="repetition 98 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 99 of 100" classname="NimGameTest" time="0.001"/>
-  <testcase name="repetition 100 of 100" classname="NimGameTest" time="0.001"/>
+  <testcase name="repetition 99 of 100" classname="NimGameTest" time="0.005"/>
+  <testcase name="repetition 100 of 100" classname="NimGameTest" time="0.002"/>
   <testcase name="Throw exception if &quot;Move&quot; parameters are out of Bounds" classname="NimGameTest" time="0.006"/>
-  <testcase name="Play move" classname="NimGameTest" time="0.001"/>
-  <testcase name="Undo move" classname="NimGameTest" time="0.0"/>
+  <testcase name="Play move" classname="NimGameTest" time="0.014"/>
+  <testcase name="Undo move" classname="NimGameTest" time="0.012"/>
   <testcase name="Generate all possible Moves" classname="NimGameTest" time="0.004"/>
-  <system-out><![CDATA[]]></system-out>
+  <system-out><![CDATA[
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(2, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}, Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(2, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=1, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(2, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(2, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(2, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(2, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=1, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}, Move{score=-2.0, row=2, number=1}, Move{score=-2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(2, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=1, number=1}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I I I 
+I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I I I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}, Move{score=2.0, row=2, number=1}]
+
+19.05.22, 20:07: Reference best move(1, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=4}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(2, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=0, number=4}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}, Move{score=-2.0, row=1, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(2, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=0, number=4}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}, Move{score=-2.0, row=1, number=4}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I 
+I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}, Move{score=-2.0, row=2, number=1}]
+
+19.05.22, 20:07: Reference best move(1, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}, Move{score=2.0, row=2, number=4}, Move{score=2.0, row=2, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=0, number=4}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=1, number=3}, Move{score=-2.0, row=1, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(2, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I 
+I I 
+
+19.05.22, 20:07: Reference 
+I 
+I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(2, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I 
+I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=-2.0, row=0, number=1}, Move{score=-2.0, row=0, number=2}, Move{score=-2.0, row=0, number=3}, Move{score=-2.0, row=1, number=1}, Move{score=-2.0, row=1, number=2}, Move{score=-2.0, row=2, number=1}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 3)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=5}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(1, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I 
+I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+
+19.05.22, 20:07: Reference 
+I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=5}]
+
+19.05.22, 20:07: Reference best move(0, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=0, number=5}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 2)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=5}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 5)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I 
+I I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}, Move{score=2.0, row=2, number=1}, Move{score=2.0, row=2, number=2}, Move{score=2.0, row=2, number=3}]
+
+19.05.22, 20:07: Reference best move(1, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=4}, Move{score=2.0, row=1, number=5}]
+
+19.05.22, 20:07: Reference best move(1, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=4}]
+
+19.05.22, 20:07: Reference best move(0, 4)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I 
+
+19.05.22, 20:07: Reference 
+I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I I I I 
+I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=0, number=1}, Move{score=2.0, row=0, number=2}, Move{score=2.0, row=0, number=3}, Move{score=2.0, row=0, number=4}, Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}]
+
+19.05.22, 20:07: Reference best move(0, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: testGetBestMoves()
+
+19.05.22, 20:07: Game 
+I I I 
+I I I I 
+
+19.05.22, 20:07: Reference 
+I I I 
+I I I I 
+
+19.05.22, 20:07: List of best moves [Move{score=2.0, row=1, number=1}, Move{score=2.0, row=1, number=2}, Move{score=2.0, row=1, number=3}, Move{score=2.0, row=1, number=4}]
+
+19.05.22, 20:07: Reference best move(1, 1)
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: playOutofBounds()
+
+19.05.22, 20:07: PASSED FIRST
+
+19.05.22, 20:07: PASSED SECOND
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: play()
+
+19.05.22, 20:07: Game: 
+I I I I I 
+
+19.05.22, 20:07: Reference 
+I I I I I 
+
+19.05.22, 20:07: Move{score=0.0, row=0, number=5}
+
+19.05.22, 20:07: Reference Move (0, 5)
+
+19.05.22, 20:07: Game 
+
+
+19.05.22, 20:07: Reference 
+
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: undo()
+
+19.05.22, 20:07: Game 
+I 
+I I 
+I I I 
+
+19.05.22, 20:07: Reference 
+I 
+I I 
+I I I 
+
+19.05.22, 20:07: Move{score=0.0, row=1, number=1}
+
+19.05.22, 20:07: Move played 
+I 
+I 
+I I I 
+
+19.05.22, 20:07: Move undone 
+I 
+I I 
+I I I 
+
+19.05.22, 20:07: Referemce 
+I 
+I I 
+I I I 
+
+------------------------------------------
+
+------------------------------------------
+
+19.05.22, 20:07: getAllPossibleMoves()
+
+19.05.22, 20:07: 
+I I I 
+I 
+
+19.05.22, 20:07: [Move{score=0.0, row=0, number=1}, Move{score=0.0, row=0, number=2}, Move{score=0.0, row=0, number=3}, Move{score=0.0, row=1, number=1}]
+
+------------------------------------------
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

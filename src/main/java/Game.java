@@ -5,26 +5,31 @@ import java.util.stream.StreamSupport;
 
 public interface Game<M extends MoveInterface> {
 
-    default M getBestMove(int depth) {
-        return getEvaluatedMoves(depth).stream().findFirst().get();
+    default M getBestMove(int depth, boolean max) {
+        return getEvaluatedMoves(depth, max).stream().findFirst().get();
     }
 
-    default List<M> getEvaluatedMoves(int depth) {
-        return getEvaluatedMoves(depth, getAllPossibleMoves());
+    default List<M> getBestMoves(int depth, boolean max){
+        List<M> list = getEvaluatedMoves(depth, max);
+        return list.stream().filter(m->m.getScore() == list.stream().findFirst().get().getScore()).toList();
     }
 
-    default List<M> getEvaluatedMoves(int depth, Iterable<M> moves) {
+    default List<M> getEvaluatedMoves(int depth, boolean max) {
+        return getEvaluatedMoves(depth, getAllPossibleMoves(), max);
+    }
+
+    default List<M> getEvaluatedMoves(int depth, Iterable<M> moves, boolean max) {
         if (depth <= 0) throw new IllegalArgumentException("SEARCHING DEPTH MUST BE GREATER THAN 0.");
-        minimax(moves, depth);
+        minimax(moves, depth, max);
         return StreamSupport.stream(moves.spliterator(), false).sorted().toList();
     }
 
-    default int minimax(@NotNull Iterable<M> moves, @NotNull int depth) {
+    default int minimax(@NotNull Iterable<M> moves, @NotNull int depth, boolean max) {
         if (isGameOver() || depth <= 0) return evaluate();
-        int score = isMaxPlayer() ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+        int score = max ? Integer.MIN_VALUE : Integer.MAX_VALUE;
         for(M move : moves) {
             play(move);
-            score = isMaxPlayer() ? Math.max(minimax(getAllPossibleMoves(), depth--), score) : Math.min(minimax(getAllPossibleMoves(), depth), score);
+            score = max ? Math.max(score, minimax(getAllPossibleMoves(), depth--, !max)) : Math.min(score, minimax(getAllPossibleMoves(), depth--, !max));
             undo(move);
             move.setScore(score);
         }
